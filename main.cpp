@@ -96,7 +96,7 @@ int main()
 	if (x > y)
 	{ 
 	design();
-	SetConsoleTitle("injector by kvetinka#8833");
+	SetConsoleTitle("injector by kvetinka#2020");
 	}
 	int switcher = 1;
 	int mainswitch;
@@ -207,7 +207,7 @@ int main()
 			int msgb;
 				msgb = MessageBoxA(
 				NULL,
-				(LPCSTR)"1. Make sure the dll you want to inject is in the same folder as the injector\n2. If you want inject dll to csgo name dll as cdll, for tf2 tdll.\n3. Select function 1.\n4. Select game\n5. Enjoy!\nFor any bug report/questions about injector please contact me at discord (kvetinka#8833).\nInjector made by admin = kvetinka#8833",
+				(LPCSTR)"1. Make sure the dll you want to inject is in the same folder as the injector\n2. If you want inject dll to csgo name dll as cdll, for tf2 tdll.\n3. Select function 1.\n4. Select game\n5. Enjoy!\nFor any bug report/questions about injector please contact me at discord (kvetinka#2020).\nInjector made by admin = kvetinka#2020",
 				(LPCSTR)"how to use",
 				MB_OK
 			);
