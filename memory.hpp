@@ -28,9 +28,6 @@ public:
 	{
 		if (pid == 0)
 		{
-			system("cls");
-			system("color 0c");
-			std::cout << "process failed";
 			return FALSE;
 		}
 
